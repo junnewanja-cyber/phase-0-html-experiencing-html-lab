@@ -1,11 +1,9 @@
-<h1>My Plants List</h1>
-
-<p>Some of my favourite plants!</p>
-
+<h1>My Music List</h1>
+<p>Some of my favorite post-punk and Goth songs!</p>
 <ul>
-<li>"Monstera Deliciosa"</li>    
-<LI>"Middle Leaf Fig"</LI>
-<li>"Pilea"</li>
-<li>"Golden Pothos"</li>
-<li>"Peace Lily"</li>
+	<li>"Love Will Tear Us Apart"</li>
+	<li>"Bela Lugosi's Dead"</li>
+	<li>"A Forest"</li>
+	<li>"Nine While Nine"</li>
+	<li>"Girlfriend In a Coma"</li>
 </ul>
